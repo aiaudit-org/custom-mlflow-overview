@@ -56,6 +56,9 @@ npm i caniuse-lite
 
 
 regular aws-mlflow: https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate
+
 project based mlflow example with wheel: https://github.com/aiaudit-org/mlflow-pm
+
 itu aws-mlflow: https://github.com/aiaudit-org/amazon-sagemaker-mlflow-fargate
+
 itu aws-mlflow w/ project based mflow wheel: https://github.com/aiaudit-org/mlflow-aws-pm
